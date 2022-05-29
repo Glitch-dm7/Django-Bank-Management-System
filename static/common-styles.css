@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+.foot {
+    font-family: "Titillium Web";
+    background-color: lightgray;
+    color: black;
+    position: absolute;
+    bottom: -1px;
+    left: 0px;
+    right: 0px;
+}
+
+.shrink {
+    margin-right: 12px;
+}
